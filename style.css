@@ -82,9 +82,10 @@ aside {
     border: 1px dotted blue;
 }
 
-.description {
-    border: 1px dashed green; /* border added, but doesn't look good */
-}
+/*.description {
+    border: 1px dashed green; 
+}*/
+/*border added, but doesn't look good*/
 
 p {
     font-family: georgia;
