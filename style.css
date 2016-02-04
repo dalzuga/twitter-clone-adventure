@@ -30,7 +30,7 @@ a {
 
 .account li:last-child {
     border-right: none;
-    padding-right: none;
+    padding-right: none; /*not working, don't know why*/
 }
 
 li a {
