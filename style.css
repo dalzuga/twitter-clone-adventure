@@ -83,7 +83,7 @@ aside {
 }
 
 .description {
-    border: 1px dashed green;
+    border: 1px dashed green; /* border added, but doesn't look good */
 }
 
 p {
