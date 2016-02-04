@@ -3,7 +3,7 @@ a {
 }
 
 .container {
-    width: 992px;
+    width: px;
     margin: auto;
 }
 
@@ -80,6 +80,8 @@ aside {
     font-weight: bold;
     padding :0px 0px 0px 5px;
     border: 1px dotted blue;
+    margin-bottom: 15px;
+    margin-right: 15px;
 }
 
 /*.description {
@@ -98,4 +100,11 @@ p {
 
 .post-wrapper {
     clear: left;
+    margin: 15px 15px 15px 15px;
 }
+
+/*
+.user-wrapper a img {
+    margin: auto;
+}*/
+/* doesn't seem to work*/
