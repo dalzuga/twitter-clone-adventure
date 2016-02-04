@@ -88,3 +88,7 @@ p {
     float: left;
     clear: left;
 }
+
+.post-wrapper {
+    clear: left;
+}
