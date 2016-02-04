@@ -70,7 +70,7 @@ aside {
 }
 
 .photo {
-    height: 150px;
+    height: 100px;
     float: left;
 }
 
@@ -80,6 +80,10 @@ aside {
     font-weight: bold;
     padding :0px 0px 0px 5px;
     border: 1px dotted blue;
+}
+
+.description {
+    border: 1px dashed green;
 }
 
 p {
