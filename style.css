@@ -3,7 +3,7 @@ a {
 }
 
 .container {
-    width: 992px;
+    width: px;
     margin: auto;
 }
 
@@ -76,7 +76,7 @@ aside {
     float: left;
     clear: left;
     font-weight: bold;
-    padding :5px 5px 5px 5px;
+    padding :0px 0px 0px 5px;
     border: 1px dotted blue;
 }
 
