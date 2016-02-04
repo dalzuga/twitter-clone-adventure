@@ -85,4 +85,5 @@ p {
 
 .user-wrapper {
     float: left;
+    clear: left;
 }
