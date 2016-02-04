@@ -3,7 +3,7 @@ a {
 }
 
 .container {
-    width: px;
+    width: 992px;
     margin: auto;
 }
 
@@ -30,6 +30,7 @@ a {
 
 .account li:last-child {
     border-right: none;
+    padding-right: none;
 }
 
 li a {
